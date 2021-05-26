@@ -2,7 +2,7 @@ Script that takes a list of subdomains and converts to IPs, useful for port scan
 
 # Usage
 
-	./url2ip.sh <list_of_subdomains>
+	./url2ip.sh <list_of_subdomains> <output_file>
 
 Will produce a file with non-duplicated ips.
 
