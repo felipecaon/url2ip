@@ -1,6 +1,5 @@
 #props to @xdavidhu
 
-echo -e "[+] Converter.sh by @xdavidhu\n"
 if [ -z "$1" ] || [ -z "$2" ]; then
   echo "[!] Usage: ./url2ip.sh [domain-list-file] [output-file]"
   exit 1
